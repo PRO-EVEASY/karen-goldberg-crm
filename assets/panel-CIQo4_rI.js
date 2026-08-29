@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{s as t}from"./store-DufvA8ff.js";var n=e();function r({className:e,children:r}){return(0,n.jsx)(`section`,{className:t(`rounded-2xl border border-border bg-card p-4 sm:p-5`,e),children:r})}export{r as t};
