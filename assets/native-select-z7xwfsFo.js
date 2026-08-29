@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./utils-DojpP95n.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`select`,{className:t(`h-10 w-full rounded-md border border-input bg-secondary px-3 text-sm text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring`,e),...r})}export{r as t};

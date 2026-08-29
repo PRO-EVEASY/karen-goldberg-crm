@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";var t=e();function n({title:e,hint:n}){return(0,t.jsxs)(`div`,{className:`rounded-2xl border border-dashed border-border px-4 py-10 text-center`,children:[(0,t.jsx)(`p`,{className:`text-sm font-medium`,children:e}),n&&(0,t.jsx)(`p`,{className:`mt-1 text-sm text-muted-foreground`,children:n})]})}export{n as t};
